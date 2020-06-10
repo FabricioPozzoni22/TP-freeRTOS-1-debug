@@ -1,0 +1,11 @@
+main.c:26:5:main	56	static
+main.c:53:6:SystemClock_Config	72	static
+main.c:91:13:MX_GPIO_Init	40	static
+main.c:140:6:tarea_led_1	16	static
+main.c:152:6:tarea_led_2	16	static
+main.c:164:6:tarea_led_3	16	static
+main.c:174:6:TareaPrior	24	static
+main.c:280:15:xor128	16	static
+main.c:291:6:StartDefaultTask	16	static
+main.c:303:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:313:6:Error_Handler	4	static
